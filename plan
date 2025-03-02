@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ramadan Daily Schedule – March 2025</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      margin: 20px;
+      line-height: 1.6;
+    }
+    h1, h2, h3 {
+      color: #333;
+    }
+    nav ul {
+      list-style: none;
+      padding: 0;
+      margin-bottom: 20px;
+    }
+    nav ul li {
+      display: inline-block;
+      margin-right: 10px;
+    }
+    nav ul li a {
+      text-decoration: none;
+      color: #0066cc;
+    }
+    .day-section {
+      background: #fff;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      margin-bottom: 40px;
+      padding: 10px;
+    }
+    .day-section h2 {
+      margin-top: 0;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-bottom: 10px;
+      background-color: #fff;
+    }
+    table, th, td {
+      border: 1px solid #ccc;
+    }
+    th, td {
+      padding: 8px;
+      text-align: left;
+    }
+    th {
+      background-color: #e2e2e2;
+    }
+    footer {
+      text-align: center;
+      margin-top: 40px;
+      font-size: 0.9em;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <h1>Ramadan Daily Schedule – March 2025</h1>
+  <p>This schedule is designed for Lenasia, Johannesburg during Ramadan. It includes Suhoor, school, workouts (with progressive weight training up to 60 kg), cleaning routines, prayers (Fajr, Isha & Taraweeh), Quran recitation, and other activities. Times are based on Radio Islam for Johannesburg—please verify and update if needed.</p>
+  
+  <nav>
+    <ul>
+      <li><a href="#2025-03-01">Mar 1</a></li>
+      <li><a href="#2025-03-02">Mar 2</a></li>
+      <li><a href="#2025-03-03">Mar 3</a></li>
+      <!-- Continue for all days of March -->
+    </ul>
+  </nav>
+  
+  <!-- Sample section for one day -->
+  <section id="2025-03-01" class="day-section">
+    <h2>2025-03-01 (Saturday) – Workout: Mixed Full‑Body & Cardio</h2>
+    <table>
+      <tr>
+        <th>Time</th>
+        <th>Activity</th>
+        <th>Notes/Details</th>
+      </tr>
+      <tr><td>04:30–05:00</td><td>Suhoor, Fajr & Quran Recitation</td><td>No fluids until Iftar</td></tr>
+      <tr><td>05:00–06:00</td><td>Optional Sleep / Rest</td><td>Extra rest if needed</td></tr>
+      <tr><td>06:00–07:00</td><td>Morning Routine & Shower</td><td>Warm-to-cool shower; grooming</td></tr>
+      <tr><td>07:10–07:30</td><td>Departure for School</td><td>20‑minute commute</td></tr>
+      <tr><td>07:30–13:15</td><td>School</td><td>Use breaks for deep breathing/stretching</td></tr>
+      <tr><td>13:15–13:45</td><td>Commute Home</td><td>30‑minute commute</td></tr>
+      <tr><td>13:45–14:00</td><td>Wind‑Down/Transition</td><td>Light stretching & brief Quran review</td></tr>
+      <tr><td>14:00–16:00</td><td>Homework & Study</td><td></td></tr>
+      <tr><td>16:00–18:00</td><td>Free Time / Power Nap</td><td>Optional 20–30‑minute nap</td></tr>
+      <tr><td>18:15–18:45</td><td><strong>Workout: Mixed Full‑Body & Cardio</strong></td>
+          <td>Circuit: Push‑Ups, Squats, Planks, Reverse Lunges, Modified Burpees; then a 10–15‑minute brisk walk</td></tr>
+      <tr><td>18:45–18:55</td><td>Clean‑Up (Pre‑Iftar)</td><td>Tidy workout area, set dining table</td></tr>
+      <tr><td>18:55</td><td>Iftar</td><td>Break fast with dates & water; meal high in oil, carbs, protein (Iftar per Radio Islam: 18:45)</td></tr>
+      <tr><td>19:00–19:10</td><td>Post‑Iftar Clean‑Up</td><td>Clear dining area</td></tr>
+      <tr><td>19:10–19:30</td><td>Post‑Iftar Shower & Change</td><td>Warm shower with 30‑sec cool rinse</td></tr>
+      <tr><td>19:30–19:45</td><td>Quran Recitation/Reflection</td><td>15 minutes</td></tr>
+      <tr><td>20:00–21:30</td><td>Isha & Taraweeh Prayers</td><td>90 minutes (Isha + Taraweeh)</td></tr>
+      <tr><td>21:30–22:00</td><td>Homework/Personal Projects</td><td></td></tr>
+      <tr><td>22:00–22:30</td><td>Wind‑Down Routine</td><td>Light stretching, mindfulness</td></tr>
+      <tr><td>22:30</td><td>Bedtime</td><td>Aim for 6–7 hours sleep</td></tr>
+    </table>
+  </section>
+  
+  <!-- Repeat sections for each day of March -->
+  
+  <footer>
+    <p>Created for Ramadan March 2025 schedule in Lenasia, Johannesburg. Adjust times as necessary.</p>
+  </footer>
+</body>
+</html>
